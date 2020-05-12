@@ -1,0 +1,2651 @@
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 9 Clubs J Diamonds 10 Spade 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 6 Hearts J Hearts Q Hearts 
+The outcome of battle 1 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 9 Spade A Spade 6 Spade 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 2 Diamonds 3 Hearts 7 Hearts 
+The outcome of battle 2 is Player 1
+Battle Number: 3
+Player Number: Player 1
+Player Hand: A Clubs 8 Spade 8 Hearts 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 2 Hearts K Diamonds 9 Diamonds 
+The outcome of battle 3 is Player 2
+Battle Number: 4
+Player Number: Player 1
+Player Hand: 10 Diamonds 4 Spade 9 Hearts 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 3 Diamonds 6 Diamonds 5 Spade 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 7 Diamonds A Hearts 2 Clubs 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 5 Diamonds 6 Clubs A Diamonds 
+The outcome of battle 5 is Player 1
+Battle Number: 6
+Player Number: Player 1
+Player Hand: K Clubs 7 Spade 8 Diamonds 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 8 Clubs 7 Clubs 2 Spade 
+The outcome of battle 6 is Player 1
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 10 Hearts J Spade 10 Clubs 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 4 Hearts J Clubs K Spade 
+The outcome of battle 7 is Player 2
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 3 Clubs 3 Spade 5 Hearts 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 4 Clubs 4 Diamonds Q Diamonds 
+The outcome of battle 8 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: Q Spade 5 Clubs 9 Spade 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: Q Clubs K Hearts 9 Clubs 
+The outcome of battle 9 is Player 2
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 2 Diamonds A Spade 3 Hearts 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 6 Hearts J Diamonds J Hearts 
+The outcome of battle 10 is Player 2
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 6 Spade 7 Hearts 10 Diamonds 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: 10 Spade Q Hearts A Clubs 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 3 Diamonds 4 Spade 6 Diamonds 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 2 Hearts 8 Spade K Diamonds 
+The outcome of battle 12 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 9 Hearts 5 Spade 7 Diamonds 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 8 Hearts 9 Diamonds 10 Hearts 
+The outcome of battle 13 is Player 2
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 5 Diamonds A Hearts 6 Clubs 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 4 Hearts J Spade J Clubs 
+The outcome of battle 14 is Player 2
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 2 Clubs A Diamonds K Clubs 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 10 Clubs K Spade 3 Clubs 
+The outcome of battle 15 is Player 1
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 8 Clubs 7 Spade 7 Clubs 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 4 Clubs 3 Spade 4 Diamonds 
+The outcome of battle 16 is Player 1
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 8 Diamonds 2 Spade 2 Clubs 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: 5 Hearts Q Diamonds Q Spade 
+The outcome of battle 17 is Player 2
+Battle Number: 18
+Player Number: Player 1
+Player Hand: 10 Clubs A Diamonds K Spade 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: Q Clubs 5 Clubs K Hearts 
+The outcome of battle 18 is Player 1
+Battle Number: 19
+Player Number: Player 1
+Player Hand: K Clubs 3 Clubs 8 Clubs 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 9 Spade 9 Clubs 2 Diamonds 
+The outcome of battle 19 is Player 2
+Battle Number: 20
+Player Number: Player 1
+Player Hand: 4 Clubs 7 Spade 3 Spade 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 6 Hearts A Spade J Diamonds 
+The outcome of battle 20 is Player 2
+Battle Number: 21
+Player Number: Player 1
+Player Hand: 7 Clubs 4 Diamonds 10 Clubs 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: 3 Hearts J Hearts 6 Spade 
+The outcome of battle 21 is Player 1
+Battle Number: 22
+Player Number: Player 1
+Player Hand: Q Clubs A Diamonds 5 Clubs 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: 10 Spade 7 Hearts Q Hearts 
+The outcome of battle 22 is Player 1
+Battle Number: 23
+Player Number: Player 1
+Player Hand: K Spade K Hearts 7 Clubs 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: 10 Diamonds A Clubs 3 Diamonds 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: 3 Hearts 4 Diamonds J Hearts 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 2 Hearts 4 Spade 8 Spade 
+The outcome of battle 24 is WAR!!!
+The outcome of war 1 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: 6 Spade Q Clubs 10 Spade 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: K Diamonds 9 Hearts 8 Hearts 
+The outcome of battle 25 is Player 1
+Battle Number: 26
+Player Number: Player 1
+Player Hand: A Diamonds 7 Hearts 5 Clubs 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 5 Spade 9 Diamonds 7 Diamonds 
+The outcome of battle 26 is WAR!!!
+The outcome of war 2 is Player 1
+Battle Number: 27
+Player Number: Player 1
+Player Hand: K Spade 10 Diamonds K Hearts 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: 5 Diamonds 4 Hearts A Hearts 
+The outcome of battle 27 is Player 1
+Battle Number: 28
+Player Number: Player 1
+Player Hand: A Clubs 7 Clubs 3 Diamonds 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: J Spade 6 Clubs J Clubs 
+The outcome of battle 28 is Player 2
+Battle Number: 29
+Player Number: Player 1
+Player Hand: 3 Hearts 2 Hearts 4 Diamonds 
+Battle Number: 29
+Player Number: Player 2
+Player Hand: 8 Diamonds 5 Hearts 2 Spade 
+The outcome of battle 29 is Player 2
+Battle Number: 30
+Player Number: Player 1
+Player Hand: 4 Spade J Hearts 8 Spade 
+Battle Number: 30
+Player Number: Player 2
+Player Hand: Q Diamonds 2 Clubs Q Spade 
+The outcome of battle 30 is Player 2
+Battle Number: 31
+Player Number: Player 1
+Player Hand: 10 Clubs 6 Diamonds 6 Spade 
+Battle Number: 31
+Player Number: Player 2
+Player Hand: K Clubs 9 Spade 3 Clubs 
+The outcome of battle 31 is Player 2
+Battle Number: 32
+Player Number: Player 1
+Player Hand: K Diamonds Q Clubs 9 Hearts 
+Battle Number: 32
+Player Number: Player 2
+Player Hand: 9 Clubs 8 Clubs 2 Diamonds 
+The outcome of battle 32 is Player 1
+Battle Number: 33
+Player Number: Player 1
+Player Hand: 10 Spade 8 Hearts A Diamonds 
+Battle Number: 33
+Player Number: Player 2
+Player Hand: 4 Clubs 6 Hearts 7 Spade 
+The outcome of battle 33 is Player 1
+Battle Number: 34
+Player Number: Player 1
+Player Hand: 5 Spade 7 Hearts 9 Diamonds 
+Battle Number: 34
+Player Number: Player 2
+Player Hand: A Spade 3 Spade J Diamonds 
+The outcome of battle 34 is Player 2
+Battle Number: 35
+Player Number: Player 1
+Player Hand: 5 Clubs 7 Diamonds Q Hearts 
+Battle Number: 35
+Player Number: Player 2
+Player Hand: A Clubs J Spade 7 Clubs 
+The outcome of battle 35 is Player 2
+Battle Number: 36
+Player Number: Player 1
+Player Hand: 10 Hearts K Spade 5 Diamonds 
+Battle Number: 36
+Player Number: Player 2
+Player Hand: 6 Clubs 3 Diamonds J Clubs 
+The outcome of battle 36 is Player 1
+Battle Number: 37
+Player Number: Player 1
+Player Hand: 10 Diamonds 4 Hearts K Hearts 
+Battle Number: 37
+Player Number: Player 2
+Player Hand: 3 Hearts 8 Diamonds 2 Hearts 
+The outcome of battle 37 is Player 1
+Battle Number: 38
+Player Number: Player 1
+Player Hand: A Hearts K Diamonds 9 Clubs 
+Battle Number: 38
+Player Number: Player 2
+Player Hand: 5 Hearts 4 Diamonds 2 Spade 
+The outcome of battle 38 is Player 1
+Battle Number: 39
+Player Number: Player 1
+Player Hand: Q Clubs 8 Clubs 9 Hearts 
+Battle Number: 39
+Player Number: Player 2
+Player Hand: 4 Spade Q Diamonds J Hearts 
+The outcome of battle 39 is Player 2
+Battle Number: 40
+Player Number: Player 1
+Player Hand: 2 Diamonds 10 Spade 4 Clubs 
+Battle Number: 40
+Player Number: Player 2
+Player Hand: 2 Clubs 8 Spade Q Spade 
+The outcome of battle 40 is Player 2
+Battle Number: 41
+Player Number: Player 1
+Player Hand: 8 Hearts 6 Hearts A Diamonds 
+Battle Number: 41
+Player Number: Player 2
+Player Hand: 10 Clubs K Clubs 6 Diamonds 
+The outcome of battle 41 is Player 2
+Battle Number: 42
+Player Number: Player 1
+Player Hand: 7 Spade 10 Hearts 6 Clubs 
+Battle Number: 42
+Player Number: Player 2
+Player Hand: 9 Spade 6 Spade 3 Clubs 
+The outcome of battle 42 is Player 1
+Battle Number: 43
+Player Number: Player 1
+Player Hand: K Spade 3 Diamonds 5 Diamonds 
+Battle Number: 43
+Player Number: Player 2
+Player Hand: 5 Spade A Spade 7 Hearts 
+The outcome of battle 43 is Player 2
+Battle Number: 44
+Player Number: Player 1
+Player Hand: J Clubs 10 Diamonds 3 Hearts 
+Battle Number: 44
+Player Number: Player 2
+Player Hand: 3 Spade 9 Diamonds J Diamonds 
+The outcome of battle 44 is Player 1
+Battle Number: 45
+Player Number: Player 1
+Player Hand: 4 Hearts 8 Diamonds K Hearts 
+Battle Number: 45
+Player Number: Player 2
+Player Hand: 5 Clubs A Clubs 7 Diamonds 
+The outcome of battle 45 is Player 1
+Battle Number: 46
+Player Number: Player 1
+Player Hand: 2 Hearts A Hearts 5 Hearts 
+Battle Number: 46
+Player Number: Player 2
+Player Hand: J Spade Q Hearts 7 Clubs 
+The outcome of battle 46 is Player 2
+Battle Number: 47
+Player Number: Player 1
+Player Hand: K Diamonds 4 Diamonds 9 Clubs 
+Battle Number: 47
+Player Number: Player 2
+Player Hand: Q Clubs 4 Spade 8 Clubs 
+The outcome of battle 47 is Player 1
+Battle Number: 48
+Player Number: Player 1
+Player Hand: 2 Spade 7 Spade 9 Spade 
+Battle Number: 48
+Player Number: Player 2
+Player Hand: Q Diamonds 9 Hearts J Hearts 
+The outcome of battle 48 is Player 2
+Battle Number: 49
+Player Number: Player 1
+Player Hand: 10 Hearts 6 Spade 6 Clubs 
+Battle Number: 49
+Player Number: Player 2
+Player Hand: 2 Diamonds 2 Clubs 10 Spade 
+The outcome of battle 49 is Player 1
+Battle Number: 50
+Player Number: Player 1
+Player Hand: 3 Clubs J Clubs 3 Spade 
+Battle Number: 50
+Player Number: Player 2
+Player Hand: 8 Spade 4 Clubs Q Spade 
+The outcome of battle 50 is Player 2
+Battle Number: 51
+Player Number: Player 1
+Player Hand: 10 Diamonds 9 Diamonds 3 Hearts 
+Battle Number: 51
+Player Number: Player 2
+Player Hand: 8 Hearts 10 Clubs 6 Hearts 
+The outcome of battle 51 is Player 1
+Battle Number: 52
+Player Number: Player 1
+Player Hand: J Diamonds 4 Hearts 5 Clubs 
+Battle Number: 52
+Player Number: Player 2
+Player Hand: K Clubs A Diamonds 6 Diamonds 
+The outcome of battle 52 is Player 2
+Battle Number: 53
+Player Number: Player 1
+Player Hand: 8 Diamonds A Clubs K Hearts 
+Battle Number: 53
+Player Number: Player 2
+Player Hand: K Spade 5 Spade 3 Diamonds 
+The outcome of battle 53 is Player 1
+Battle Number: 54
+Player Number: Player 1
+Player Hand: 7 Diamonds K Diamonds Q Clubs 
+Battle Number: 54
+Player Number: Player 2
+Player Hand: A Spade 5 Diamonds 7 Hearts 
+The outcome of battle 54 is Player 1
+Battle Number: 55
+Player Number: Player 1
+Player Hand: 4 Diamonds 4 Spade 9 Clubs 
+Battle Number: 55
+Player Number: Player 2
+Player Hand: 2 Hearts J Spade A Hearts 
+The outcome of battle 55 is Player 2
+Battle Number: 56
+Player Number: Player 1
+Player Hand: 8 Clubs 10 Hearts 2 Diamonds 
+Battle Number: 56
+Player Number: Player 2
+Player Hand: Q Hearts 5 Hearts 7 Clubs 
+The outcome of battle 56 is Player 1
+Battle Number: 57
+Player Number: Player 1
+Player Hand: 6 Spade 2 Clubs 6 Clubs 
+Battle Number: 57
+Player Number: Player 2
+Player Hand: 2 Spade Q Diamonds 7 Spade 
+The outcome of battle 57 is Player 2
+Battle Number: 58
+Player Number: Player 1
+Player Hand: 10 Spade 10 Diamonds 8 Hearts 
+Battle Number: 58
+Player Number: Player 2
+Player Hand: 9 Hearts 9 Spade J Hearts 
+The outcome of battle 58 is Player 1
+Battle Number: 59
+Player Number: Player 1
+Player Hand: 9 Diamonds 10 Clubs 3 Hearts 
+Battle Number: 59
+Player Number: Player 2
+Player Hand: 3 Clubs 8 Spade J Clubs 
+The outcome of battle 59 is Player 1
+Battle Number: 60
+Player Number: Player 1
+Player Hand: 6 Hearts 8 Diamonds K Spade 
+Battle Number: 60
+Player Number: Player 2
+Player Hand: 4 Clubs 3 Spade Q Spade 
+The outcome of battle 60 is Player 1
+Battle Number: 61
+Player Number: Player 1
+Player Hand: A Clubs 5 Spade K Hearts 
+Battle Number: 61
+Player Number: Player 2
+Player Hand: J Diamonds K Clubs 4 Hearts 
+The outcome of battle 61 is Player 1
+Battle Number: 62
+Player Number: Player 1
+Player Hand: 3 Diamonds 7 Diamonds A Spade 
+Battle Number: 62
+Player Number: Player 2
+Player Hand: A Diamonds 5 Clubs 6 Diamonds 
+The outcome of battle 62 is Player 1
+Battle Number: 63
+Player Number: Player 1
+Player Hand: K Diamonds 5 Diamonds Q Clubs 
+Battle Number: 63
+Player Number: Player 2
+Player Hand: 4 Diamonds 2 Hearts 4 Spade 
+The outcome of battle 63 is Player 1
+Battle Number: 64
+Player Number: Player 1
+Player Hand: 7 Hearts 8 Clubs Q Hearts 
+Battle Number: 64
+Player Number: Player 2
+Player Hand: J Spade 9 Clubs A Hearts 
+The outcome of battle 64 is Player 2
+Battle Number: 65
+Player Number: Player 1
+Player Hand: 10 Hearts 5 Hearts 2 Diamonds 
+Battle Number: 65
+Player Number: Player 2
+Player Hand: 6 Spade 2 Spade 2 Clubs 
+The outcome of battle 65 is Player 1
+Battle Number: 66
+Player Number: Player 1
+Player Hand: 7 Clubs 10 Spade 9 Hearts 
+Battle Number: 66
+Player Number: Player 2
+Player Hand: Q Diamonds 6 Clubs 7 Spade 
+The outcome of battle 66 is Player 1
+Battle Number: 67
+Player Number: Player 1
+Player Hand: 10 Diamonds 9 Spade 8 Hearts 
+Battle Number: 67
+Player Number: Player 2
+Player Hand: 7 Hearts J Spade 8 Clubs 
+The outcome of battle 67 is Player 1
+Battle Number: 68
+Player Number: Player 1
+Player Hand: J Hearts 9 Diamonds 3 Clubs 
+Battle Number: 68
+Player Number: Player 2
+Player Hand: 9 Clubs Q Hearts A Hearts 
+The outcome of battle 68 is Player 2
+Battle Number: 69
+Player Number: Player 1
+Player Hand: 10 Clubs 8 Spade 3 Hearts 
+Battle Number: 69
+Player Number: Player 2
+Player Hand: J Hearts 9 Clubs 9 Diamonds 
+The outcome of battle 69 is Player 2
+Battle Number: 70
+Player Number: Player 1
+Player Hand: J Clubs 6 Hearts 4 Clubs 
+Battle Number: 70
+Player Number: Player 2
+Player Hand: Q Hearts 3 Clubs A Hearts 
+The outcome of battle 70 is Player 2
+Battle Number: 71
+Player Number: Player 1
+Player Hand: 8 Diamonds 3 Spade K Spade 
+Battle Number: 71
+Player Number: Player 2
+Player Hand: 10 Clubs J Hearts 8 Spade 
+The outcome of battle 71 is Player 2
+Battle Number: 72
+Player Number: Player 1
+Player Hand: Q Spade A Clubs J Diamonds 
+Battle Number: 72
+Player Number: Player 2
+Player Hand: 9 Clubs 3 Hearts 9 Diamonds 
+The outcome of battle 72 is Player 1
+Battle Number: 73
+Player Number: Player 1
+Player Hand: 5 Spade K Clubs K Hearts 
+Battle Number: 73
+Player Number: Player 2
+Player Hand: J Clubs Q Hearts 6 Hearts 
+The outcome of battle 73 is Player 1
+Battle Number: 74
+Player Number: Player 1
+Player Hand: 4 Hearts 3 Diamonds A Diamonds 
+Battle Number: 74
+Player Number: Player 2
+Player Hand: 3 Clubs 4 Clubs A Hearts 
+The outcome of battle 74 is WAR!!!
+The outcome of war 3 is Player 2
+Battle Number: 75
+Player Number: Player 1
+Player Hand: 5 Clubs A Spade 6 Diamonds 
+Battle Number: 75
+Player Number: Player 2
+Player Hand: 10 Clubs 3 Spade J Hearts 
+The outcome of battle 75 is Player 2
+Battle Number: 76
+Player Number: Player 1
+Player Hand: K Diamonds 4 Diamonds 5 Diamonds 
+Battle Number: 76
+Player Number: Player 2
+Player Hand: K Spade 8 Spade 4 Hearts 
+The outcome of battle 76 is Player 2
+Battle Number: 77
+Player Number: Player 1
+Player Hand: 2 Hearts Q Clubs 4 Spade 
+Battle Number: 77
+Player Number: Player 2
+Player Hand: 3 Clubs 3 Diamonds 4 Clubs 
+The outcome of battle 77 is Player 1
+Battle Number: 78
+Player Number: Player 1
+Player Hand: 10 Hearts 6 Spade 5 Hearts 
+Battle Number: 78
+Player Number: Player 2
+Player Hand: A Diamonds A Hearts 7 Diamonds 
+The outcome of battle 78 is Player 2
+Battle Number: 79
+Player Number: Player 1
+Player Hand: 2 Spade 2 Diamonds 2 Clubs 
+Battle Number: 79
+Player Number: Player 2
+Player Hand: 8 Diamonds 5 Clubs 10 Clubs 
+The outcome of battle 79 is Player 2
+Battle Number: 80
+Player Number: Player 1
+Player Hand: 7 Clubs Q Diamonds 10 Spade 
+Battle Number: 80
+Player Number: Player 2
+Player Hand: A Spade 3 Spade 6 Diamonds 
+The outcome of battle 80 is Player 1
+Battle Number: 81
+Player Number: Player 1
+Player Hand: 6 Clubs 9 Hearts 7 Spade 
+Battle Number: 81
+Player Number: Player 2
+Player Hand: J Hearts K Diamonds K Spade 
+The outcome of battle 81 is Player 2
+Battle Number: 82
+Player Number: Player 1
+Player Hand: 10 Diamonds 7 Hearts 9 Spade 
+Battle Number: 82
+Player Number: Player 2
+Player Hand: 4 Diamonds 8 Spade 5 Diamonds 
+The outcome of battle 82 is Player 1
+Battle Number: 83
+Player Number: Player 1
+Player Hand: J Spade 8 Hearts 8 Clubs 
+Battle Number: 83
+Player Number: Player 2
+Player Hand: 4 Hearts 10 Hearts A Diamonds 
+The outcome of battle 83 is Player 2
+Battle Number: 84
+Player Number: Player 1
+Player Hand: Q Spade 9 Clubs A Clubs 
+Battle Number: 84
+Player Number: Player 2
+Player Hand: 6 Spade A Hearts 5 Hearts 
+The outcome of battle 84 is Player 1
+Battle Number: 85
+Player Number: Player 1
+Player Hand: 3 Hearts J Diamonds 9 Diamonds 
+Battle Number: 85
+Player Number: Player 2
+Player Hand: 7 Diamonds 2 Spade 8 Diamonds 
+The outcome of battle 85 is Player 1
+Battle Number: 86
+Player Number: Player 1
+Player Hand: 5 Spade J Clubs K Clubs 
+Battle Number: 86
+Player Number: Player 2
+Player Hand: 2 Diamonds 5 Clubs 2 Clubs 
+The outcome of battle 86 is Player 1
+Battle Number: 87
+Player Number: Player 1
+Player Hand: Q Hearts K Hearts 6 Hearts 
+Battle Number: 87
+Player Number: Player 2
+Player Hand: 10 Clubs 6 Clubs J Hearts 
+The outcome of battle 87 is Player 1
+Battle Number: 88
+Player Number: Player 1
+Player Hand: 2 Hearts 3 Clubs Q Clubs 
+Battle Number: 88
+Player Number: Player 2
+Player Hand: 9 Hearts K Diamonds 7 Spade 
+The outcome of battle 88 is Player 2
+Battle Number: 89
+Player Number: Player 1
+Player Hand: 3 Diamonds 4 Spade 4 Clubs 
+Battle Number: 89
+Player Number: Player 2
+Player Hand: K Spade J Spade 4 Hearts 
+The outcome of battle 89 is Player 2
+Battle Number: 90
+Player Number: Player 1
+Player Hand: 7 Clubs A Spade Q Diamonds 
+Battle Number: 90
+Player Number: Player 2
+Player Hand: 8 Hearts 10 Hearts 8 Clubs 
+The outcome of battle 90 is Player 1
+Battle Number: 91
+Player Number: Player 1
+Player Hand: 3 Spade 10 Spade 6 Diamonds 
+Battle Number: 91
+Player Number: Player 2
+Player Hand: A Diamonds 2 Hearts 9 Hearts 
+The outcome of battle 91 is Player 2
+Battle Number: 92
+Player Number: Player 1
+Player Hand: 10 Diamonds 4 Diamonds 7 Hearts 
+Battle Number: 92
+Player Number: Player 2
+Player Hand: 3 Clubs K Diamonds Q Clubs 
+The outcome of battle 92 is Player 2
+Battle Number: 93
+Player Number: Player 1
+Player Hand: 8 Spade 9 Spade 5 Diamonds 
+Battle Number: 93
+Player Number: Player 2
+Player Hand: 7 Spade 3 Diamonds K Spade 
+The outcome of battle 93 is Player 1
+Battle Number: 94
+Player Number: Player 1
+Player Hand: Q Spade 6 Spade 9 Clubs 
+Battle Number: 94
+Player Number: Player 2
+Player Hand: 4 Spade J Spade 4 Clubs 
+The outcome of battle 94 is Player 1
+Battle Number: 95
+Player Number: Player 1
+Player Hand: A Hearts A Clubs 5 Hearts 
+Battle Number: 95
+Player Number: Player 2
+Player Hand: 4 Hearts 3 Spade A Diamonds 
+The outcome of battle 95 is Player 1
+Battle Number: 96
+Player Number: Player 1
+Player Hand: 3 Hearts 7 Diamonds J Diamonds 
+Battle Number: 96
+Player Number: Player 2
+Player Hand: 10 Spade 2 Hearts 6 Diamonds 
+The outcome of battle 96 is Player 1
+Battle Number: 97
+Player Number: Player 1
+Player Hand: 2 Spade 9 Diamonds 8 Diamonds 
+Battle Number: 97
+Player Number: Player 2
+Player Hand: 9 Hearts 10 Diamonds 3 Clubs 
+The outcome of battle 97 is Player 2
+Battle Number: 98
+Player Number: Player 1
+Player Hand: 5 Spade 2 Diamonds J Clubs 
+Battle Number: 98
+Player Number: Player 2
+Player Hand: 4 Diamonds K Diamonds 7 Hearts 
+The outcome of battle 98 is Player 2
+Battle Number: 99
+Player Number: Player 1
+Player Hand: 5 Clubs K Clubs 2 Clubs 
+Battle Number: 99
+Player Number: Player 2
+Player Hand: Q Clubs 2 Spade 9 Hearts 
+The outcome of battle 99 is Player 2
+Battle Number: 100
+Player Number: Player 1
+Player Hand: Q Hearts 10 Clubs K Hearts 
+Battle Number: 100
+Player Number: Player 2
+Player Hand: 9 Diamonds 10 Diamonds 8 Diamonds 
+The outcome of battle 100 is Player 1
+Battle Number: 101
+Player Number: Player 1
+Player Hand: 6 Clubs 6 Hearts J Hearts 
+Battle Number: 101
+Player Number: Player 2
+Player Hand: 3 Clubs 5 Spade 4 Diamonds 
+The outcome of battle 101 is Player 1
+Battle Number: 102
+Player Number: Player 1
+Player Hand: 7 Clubs 8 Hearts A Spade 
+Battle Number: 102
+Player Number: Player 2
+Player Hand: 2 Diamonds K Diamonds J Clubs 
+The outcome of battle 102 is Player 2
+Battle Number: 103
+Player Number: Player 1
+Player Hand: 10 Hearts Q Diamonds 8 Clubs 
+Battle Number: 103
+Player Number: Player 2
+Player Hand: 7 Hearts 5 Clubs Q Clubs 
+The outcome of battle 103 is Player 1
+Battle Number: 104
+Player Number: Player 1
+Player Hand: 8 Spade 7 Spade 9 Spade 
+Battle Number: 104
+Player Number: Player 2
+Player Hand: K Clubs 2 Spade 2 Clubs 
+The outcome of battle 104 is Player 1
+Battle Number: 105
+Player Number: Player 1
+Player Hand: 3 Diamonds 5 Diamonds K Spade 
+Battle Number: 105
+Player Number: Player 2
+Player Hand: 9 Hearts 7 Clubs 2 Diamonds 
+The outcome of battle 105 is Player 2
+Battle Number: 106
+Player Number: Player 1
+Player Hand: Q Spade 4 Spade 6 Spade 
+Battle Number: 106
+Player Number: Player 2
+Player Hand: 8 Hearts K Diamonds A Spade 
+The outcome of battle 106 is Player 2
+Battle Number: 107
+Player Number: Player 1
+Player Hand: J Spade 9 Clubs 4 Clubs 
+Battle Number: 107
+Player Number: Player 2
+Player Hand: J Clubs 3 Diamonds 9 Hearts 
+The outcome of battle 107 is WAR!!!
+The outcome of war 4 is Player 1
+Battle Number: 108
+Player Number: Player 1
+Player Hand: 4 Hearts A Clubs 3 Spade 
+Battle Number: 108
+Player Number: Player 2
+Player Hand: 7 Clubs K Spade 2 Diamonds 
+The outcome of battle 108 is Player 2
+Battle Number: 109
+Player Number: Player 1
+Player Hand: 5 Hearts A Diamonds 3 Hearts 
+Battle Number: 109
+Player Number: Player 2
+Player Hand: Q Spade 8 Hearts 4 Spade 
+The outcome of battle 109 is Player 2
+Battle Number: 110
+Player Number: Player 1
+Player Hand: 10 Spade 7 Diamonds 2 Hearts 
+Battle Number: 110
+Player Number: Player 2
+Player Hand: K Diamonds 6 Spade A Spade 
+The outcome of battle 110 is Player 2
+Battle Number: 111
+Player Number: Player 1
+Player Hand: J Diamonds 6 Diamonds Q Hearts 
+Battle Number: 111
+Player Number: Player 2
+Player Hand: 4 Hearts 7 Clubs A Clubs 
+The outcome of battle 111 is Player 1
+Battle Number: 112
+Player Number: Player 1
+Player Hand: 9 Diamonds 10 Clubs 10 Diamonds 
+Battle Number: 112
+Player Number: Player 2
+Player Hand: K Spade 3 Spade 2 Diamonds 
+The outcome of battle 112 is Player 1
+Battle Number: 113
+Player Number: Player 1
+Player Hand: K Hearts 8 Diamonds 6 Clubs 
+Battle Number: 113
+Player Number: Player 2
+Player Hand: 5 Hearts Q Spade A Diamonds 
+The outcome of battle 113 is Player 2
+Battle Number: 114
+Player Number: Player 1
+Player Hand: 3 Clubs 6 Hearts 5 Spade 
+Battle Number: 114
+Player Number: Player 2
+Player Hand: 8 Hearts 3 Hearts 4 Spade 
+The outcome of battle 114 is Player 1
+Battle Number: 115
+Player Number: Player 1
+Player Hand: J Hearts 4 Diamonds 10 Hearts 
+Battle Number: 115
+Player Number: Player 2
+Player Hand: 10 Spade K Diamonds 7 Diamonds 
+The outcome of battle 115 is WAR!!!
+The outcome of war 5 is Player 1
+Battle Number: 116
+Player Number: Player 1
+Player Hand: Q Diamonds 5 Clubs 8 Clubs 
+Battle Number: 116
+Player Number: Player 2
+Player Hand: 2 Hearts A Spade K Hearts 
+The outcome of battle 116 is Player 2
+Battle Number: 117
+Player Number: Player 1
+Player Hand: Q Clubs 8 Spade K Clubs 
+Battle Number: 117
+Player Number: Player 2
+Player Hand: 5 Hearts 8 Diamonds Q Spade 
+The outcome of battle 117 is Player 1
+Battle Number: 118
+Player Number: Player 1
+Player Hand: 7 Spade 2 Spade 9 Spade 
+Battle Number: 118
+Player Number: Player 2
+Player Hand: 6 Clubs A Diamonds Q Diamonds 
+The outcome of battle 118 is Player 2
+Battle Number: 119
+Player Number: Player 1
+Player Hand: 2 Clubs J Spade J Clubs 
+Battle Number: 119
+Player Number: Player 2
+Player Hand: 2 Hearts 5 Clubs A Spade 
+The outcome of battle 119 is Player 1
+Battle Number: 120
+Player Number: Player 1
+Player Hand: 9 Clubs 3 Diamonds 4 Clubs 
+Battle Number: 120
+Player Number: Player 2
+Player Hand: 8 Clubs K Hearts 7 Spade 
+The outcome of battle 120 is Player 2
+Battle Number: 121
+Player Number: Player 1
+Player Hand: 9 Hearts A Hearts 5 Diamonds 
+Battle Number: 121
+Player Number: Player 2
+Player Hand: 6 Clubs 2 Spade A Diamonds 
+The outcome of battle 121 is Player 1
+Battle Number: 122
+Player Number: Player 1
+Player Hand: J Diamonds 4 Hearts 6 Diamonds 
+Battle Number: 122
+Player Number: Player 2
+Player Hand: 9 Spade Q Diamonds 9 Clubs 
+The outcome of battle 122 is Player 2
+Battle Number: 123
+Player Number: Player 1
+Player Hand: 7 Clubs Q Hearts A Clubs 
+Battle Number: 123
+Player Number: Player 2
+Player Hand: 8 Clubs 3 Diamonds K Hearts 
+The outcome of battle 123 is Player 1
+Battle Number: 124
+Player Number: Player 1
+Player Hand: 9 Diamonds K Spade 10 Clubs 
+Battle Number: 124
+Player Number: Player 2
+Player Hand: 4 Clubs 7 Spade J Diamonds 
+The outcome of battle 124 is Player 1
+Battle Number: 125
+Player Number: Player 1
+Player Hand: 3 Spade 10 Diamonds 2 Diamonds 
+Battle Number: 125
+Player Number: Player 2
+Player Hand: 9 Spade 4 Hearts Q Diamonds 
+The outcome of battle 125 is Player 2
+Battle Number: 126
+Player Number: Player 1
+Player Hand: 3 Clubs 8 Hearts 6 Hearts 
+Battle Number: 126
+Player Number: Player 2
+Player Hand: 6 Diamonds 9 Clubs 3 Spade 
+The outcome of battle 126 is WAR!!!
+The outcome of war 6 is Player 2
+Battle Number: 127
+Player Number: Player 1
+Player Hand: 5 Spade 4 Spade J Hearts 
+Battle Number: 127
+Player Number: Player 2
+Player Hand: 10 Diamonds 4 Hearts 2 Diamonds 
+The outcome of battle 127 is Player 1
+Battle Number: 128
+Player Number: Player 1
+Player Hand: 10 Spade 4 Diamonds K Diamonds 
+Battle Number: 128
+Player Number: Player 2
+Player Hand: Q Diamonds 3 Clubs 6 Diamonds 
+The outcome of battle 128 is Player 1
+Battle Number: 129
+Player Number: Player 1
+Player Hand: 10 Hearts 7 Diamonds 7 Hearts 
+Battle Number: 129
+Player Number: Player 2
+Player Hand: 8 Hearts 9 Clubs 6 Hearts 
+The outcome of battle 129 is Player 2
+Battle Number: 130
+Player Number: Player 1
+Player Hand: 6 Spade Q Clubs 5 Hearts 
+Battle Number: 130
+Player Number: Player 2
+Player Hand: 3 Spade 3 Hearts 9 Spade 
+The outcome of battle 130 is Player 1
+Battle Number: 131
+Player Number: Player 1
+Player Hand: 8 Spade 8 Diamonds K Clubs 
+Battle Number: 131
+Player Number: Player 2
+Player Hand: 10 Hearts 8 Hearts 7 Diamonds 
+The outcome of battle 131 is WAR!!!
+The outcome of war 7 is Player 1
+Battle Number: 132
+Player Number: Player 1
+Player Hand: 2 Clubs 2 Hearts J Spade 
+Battle Number: 132
+Player Number: Player 2
+Player Hand: 7 Hearts 6 Hearts null 
+The outcome of battle 132 is Player 2
+Battle Number: 133
+Player Number: Player 1
+Player Hand: 5 Clubs J Clubs A Spade 
+Battle Number: 133
+Player Number: Player 2
+Player Hand: 2 Clubs 7 Hearts 2 Hearts 
+The outcome of battle 133 is Player 1
+Battle Number: 134
+Player Number: Player 1
+Player Hand: 9 Hearts 6 Clubs A Hearts 
+Battle Number: 134
+Player Number: Player 2
+Player Hand: 6 Hearts J Spade null 
+The outcome of battle 134 is Player 1
+The winner of game 1 is Player 1
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 6 Hearts 3 Spade 6 Diamonds 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: K Diamonds 9 Clubs Q Clubs 
+The outcome of battle 1 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: 6 Clubs 10 Hearts 7 Hearts 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 10 Spade 8 Clubs 9 Diamonds 
+The outcome of battle 2 is Player 2
+Battle Number: 3
+Player Number: Player 1
+Player Hand: A Clubs 8 Diamonds 2 Hearts 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 3 Diamonds 7 Diamonds J Hearts 
+The outcome of battle 3 is Player 1
+Battle Number: 4
+Player Number: Player 1
+Player Hand: J Clubs 3 Clubs 4 Clubs 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: Q Spade 5 Hearts 4 Spade 
+The outcome of battle 4 is Player 2
+Battle Number: 5
+Player Number: Player 1
+Player Hand: A Spade A Hearts 5 Diamonds 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: 3 Hearts 5 Clubs 10 Clubs 
+The outcome of battle 5 is Player 1
+Battle Number: 6
+Player Number: Player 1
+Player Hand: 4 Diamonds 2 Clubs 2 Spade 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 7 Spade 5 Spade K Hearts 
+The outcome of battle 6 is Player 2
+Battle Number: 7
+Player Number: Player 1
+Player Hand: 8 Spade 7 Clubs 6 Spade 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 4 Hearts A Diamonds J Diamonds 
+The outcome of battle 7 is Player 2
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 9 Spade 10 Diamonds 8 Hearts 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 9 Hearts J Spade K Spade 
+The outcome of battle 8 is Player 2
+Battle Number: 9
+Player Number: Player 1
+Player Hand: 2 Diamonds Q Hearts A Clubs 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: Q Diamonds K Clubs 6 Hearts 
+The outcome of battle 9 is WAR!!!
+The outcome of war 1 is Player 2
+Battle Number: 10
+Player Number: Player 1
+Player Hand: 8 Diamonds 7 Diamonds 2 Hearts 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 3 Spade 9 Clubs 6 Diamonds 
+The outcome of battle 10 is Player 1
+Battle Number: 11
+Player Number: Player 1
+Player Hand: J Hearts A Spade 3 Hearts 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: Q Clubs 6 Clubs 10 Spade 
+The outcome of battle 11 is Player 1
+Battle Number: 12
+Player Number: Player 1
+Player Hand: A Hearts 5 Clubs 5 Diamonds 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: 10 Hearts 8 Clubs 7 Hearts 
+The outcome of battle 12 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 10 Clubs 8 Diamonds 3 Spade 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: 9 Diamonds J Clubs Q Spade 
+The outcome of battle 13 is Player 2
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 7 Diamonds 9 Clubs 2 Hearts 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 3 Clubs 5 Hearts 4 Clubs 
+The outcome of battle 14 is Player 1
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 6 Diamonds J Hearts Q Clubs 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 4 Spade 4 Diamonds 7 Spade 
+The outcome of battle 15 is Player 1
+Battle Number: 16
+Player Number: Player 1
+Player Hand: A Spade 6 Clubs 3 Hearts 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 2 Clubs 5 Spade 2 Spade 
+The outcome of battle 16 is Player 1
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 10 Spade 7 Diamonds 3 Clubs 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: K Hearts 8 Spade 4 Hearts 
+The outcome of battle 17 is Player 2
+Battle Number: 18
+Player Number: Player 1
+Player Hand: 9 Clubs 5 Hearts 2 Hearts 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 7 Clubs A Diamonds 6 Spade 
+The outcome of battle 18 is Player 2
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 4 Clubs 6 Diamonds 4 Spade 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: J Diamonds 9 Spade 9 Hearts 
+The outcome of battle 19 is Player 2
+Battle Number: 20
+Player Number: Player 1
+Player Hand: J Hearts 4 Diamonds Q Clubs 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 10 Diamonds J Spade 8 Hearts 
+The outcome of battle 20 is Player 1
+Battle Number: 21
+Player Number: Player 1
+Player Hand: 7 Spade A Spade 2 Clubs 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: K Spade 2 Diamonds Q Diamonds 
+The outcome of battle 21 is Player 2
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 6 Clubs 5 Spade 3 Hearts 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: Q Hearts K Clubs A Clubs 
+The outcome of battle 22 is Player 2
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 2 Spade J Hearts 10 Diamonds 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: 6 Hearts 3 Diamonds K Diamonds 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: 4 Diamonds J Spade Q Clubs 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: A Hearts 10 Hearts 5 Clubs 
+The outcome of battle 24 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: 8 Hearts 2 Spade 6 Hearts 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: 8 Clubs 5 Diamonds 7 Hearts 
+The outcome of battle 25 is Player 2
+Battle Number: 26
+Player Number: Player 1
+Player Hand: J Hearts 3 Diamonds 10 Diamonds 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 10 Clubs 9 Diamonds 8 Diamonds 
+The outcome of battle 26 is Player 1
+Battle Number: 27
+Player Number: Player 1
+Player Hand: K Diamonds 4 Diamonds A Hearts 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: J Clubs 3 Spade Q Spade 
+The outcome of battle 27 is Player 1
+Battle Number: 28
+Player Number: Player 1
+Player Hand: J Spade 10 Hearts Q Clubs 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: 10 Spade K Hearts 7 Diamonds 
+The outcome of battle 28 is Player 1
+Battle Number: 29
+Player Number: Player 1
+Player Hand: 5 Clubs J Hearts 10 Clubs 
+Battle Number: 29
+Player Number: Player 2
+Player Hand: 8 Spade 3 Clubs 4 Hearts 
+The outcome of battle 29 is Player 1
+Battle Number: 30
+Player Number: Player 1
+Player Hand: 3 Diamonds 9 Diamonds 10 Diamonds 
+Battle Number: 30
+Player Number: Player 2
+Player Hand: 9 Clubs 7 Clubs 5 Hearts 
+The outcome of battle 30 is Player 1
+Battle Number: 31
+Player Number: Player 1
+Player Hand: 8 Diamonds K Diamonds J Clubs 
+Battle Number: 31
+Player Number: Player 2
+Player Hand: A Diamonds 2 Hearts 6 Spade 
+The outcome of battle 31 is Player 1
+Battle Number: 32
+Player Number: Player 1
+Player Hand: 4 Diamonds 3 Spade A Hearts 
+Battle Number: 32
+Player Number: Player 2
+Player Hand: 4 Clubs J Diamonds 6 Diamonds 
+The outcome of battle 32 is Player 2
+Battle Number: 33
+Player Number: Player 1
+Player Hand: Q Spade J Spade 10 Spade 
+Battle Number: 33
+Player Number: Player 2
+Player Hand: 9 Spade 4 Spade 9 Hearts 
+The outcome of battle 33 is Player 1
+Battle Number: 34
+Player Number: Player 1
+Player Hand: 10 Hearts K Hearts Q Clubs 
+Battle Number: 34
+Player Number: Player 2
+Player Hand: 7 Spade K Spade A Spade 
+The outcome of battle 34 is Player 2
+Battle Number: 35
+Player Number: Player 1
+Player Hand: 7 Diamonds 5 Clubs 8 Spade 
+Battle Number: 35
+Player Number: Player 2
+Player Hand: 2 Diamonds 2 Clubs Q Diamonds 
+The outcome of battle 35 is Player 1
+Battle Number: 36
+Player Number: Player 1
+Player Hand: J Hearts 3 Clubs 10 Clubs 
+Battle Number: 36
+Player Number: Player 2
+Player Hand: 6 Clubs Q Hearts 5 Spade 
+The outcome of battle 36 is Player 1
+Battle Number: 37
+Player Number: Player 1
+Player Hand: 4 Hearts 3 Diamonds 9 Clubs 
+Battle Number: 37
+Player Number: Player 2
+Player Hand: K Clubs 3 Hearts A Clubs 
+The outcome of battle 37 is Player 2
+Battle Number: 38
+Player Number: Player 1
+Player Hand: 9 Diamonds 7 Clubs 10 Diamonds 
+Battle Number: 38
+Player Number: Player 2
+Player Hand: 8 Hearts 8 Clubs 2 Spade 
+The outcome of battle 38 is Player 1
+Battle Number: 39
+Player Number: Player 1
+Player Hand: 5 Hearts 8 Diamonds A Diamonds 
+Battle Number: 39
+Player Number: Player 2
+Player Hand: 5 Diamonds 6 Hearts 7 Hearts 
+The outcome of battle 39 is Player 1
+Battle Number: 40
+Player Number: Player 1
+Player Hand: K Diamonds 2 Hearts J Clubs 
+Battle Number: 40
+Player Number: Player 2
+Player Hand: 4 Diamonds 4 Clubs 3 Spade 
+The outcome of battle 40 is Player 1
+Battle Number: 41
+Player Number: Player 1
+Player Hand: 6 Spade Q Spade 9 Spade 
+Battle Number: 41
+Player Number: Player 2
+Player Hand: J Diamonds A Hearts 6 Diamonds 
+The outcome of battle 41 is Player 2
+Battle Number: 42
+Player Number: Player 1
+Player Hand: J Spade 4 Spade 10 Spade 
+Battle Number: 42
+Player Number: Player 2
+Player Hand: 10 Hearts 7 Spade K Hearts 
+The outcome of battle 42 is WAR!!!
+The outcome of war 2 is Player 2
+Battle Number: 43
+Player Number: Player 1
+Player Hand: 7 Diamonds 2 Diamonds 5 Clubs 
+Battle Number: 43
+Player Number: Player 2
+Player Hand: Q Clubs A Spade 4 Hearts 
+The outcome of battle 43 is Player 2
+Battle Number: 44
+Player Number: Player 1
+Player Hand: 2 Clubs 8 Spade Q Diamonds 
+Battle Number: 44
+Player Number: Player 2
+Player Hand: K Clubs 3 Diamonds 3 Hearts 
+The outcome of battle 44 is Player 1
+Battle Number: 45
+Player Number: Player 1
+Player Hand: J Hearts 6 Clubs 3 Clubs 
+Battle Number: 45
+Player Number: Player 2
+Player Hand: 9 Clubs A Clubs 6 Spade 
+The outcome of battle 45 is Player 2
+Battle Number: 46
+Player Number: Player 1
+Player Hand: Q Hearts 10 Clubs 5 Spade 
+Battle Number: 46
+Player Number: Player 2
+Player Hand: J Diamonds Q Spade A Hearts 
+The outcome of battle 46 is Player 2
+Battle Number: 47
+Player Number: Player 1
+Player Hand: 9 Diamonds 8 Hearts 7 Clubs 
+Battle Number: 47
+Player Number: Player 2
+Player Hand: 9 Spade 6 Diamonds J Spade 
+The outcome of battle 47 is Player 2
+Battle Number: 48
+Player Number: Player 1
+Player Hand: 8 Clubs 10 Diamonds 2 Spade 
+Battle Number: 48
+Player Number: Player 2
+Player Hand: 10 Hearts 4 Spade 7 Spade 
+The outcome of battle 48 is Player 1
+Battle Number: 49
+Player Number: Player 1
+Player Hand: 5 Hearts 5 Diamonds 8 Diamonds 
+Battle Number: 49
+Player Number: Player 2
+Player Hand: 10 Spade K Hearts 9 Hearts 
+The outcome of battle 49 is Player 2
+Battle Number: 50
+Player Number: Player 1
+Player Hand: 6 Hearts A Diamonds 7 Hearts 
+Battle Number: 50
+Player Number: Player 2
+Player Hand: K Spade 7 Diamonds Q Clubs 
+The outcome of battle 50 is Player 2
+Battle Number: 51
+Player Number: Player 1
+Player Hand: K Diamonds 4 Diamonds 2 Hearts 
+Battle Number: 51
+Player Number: Player 2
+Player Hand: 2 Diamonds A Spade 5 Clubs 
+The outcome of battle 51 is Player 2
+Battle Number: 52
+Player Number: Player 1
+Player Hand: 4 Clubs J Clubs 3 Spade 
+Battle Number: 52
+Player Number: Player 2
+Player Hand: 4 Hearts J Hearts 9 Clubs 
+The outcome of battle 52 is Player 2
+Battle Number: 53
+Player Number: Player 1
+Player Hand: 2 Clubs K Clubs 8 Spade 
+Battle Number: 53
+Player Number: Player 2
+Player Hand: 6 Clubs A Clubs 3 Clubs 
+The outcome of battle 53 is Player 1
+Battle Number: 54
+Player Number: Player 1
+Player Hand: 3 Diamonds Q Diamonds 3 Hearts 
+Battle Number: 54
+Player Number: Player 2
+Player Hand: 6 Spade Q Hearts J Diamonds 
+The outcome of battle 54 is Player 2
+Battle Number: 55
+Player Number: Player 1
+Player Hand: 8 Clubs 10 Hearts 10 Diamonds 
+Battle Number: 55
+Player Number: Player 2
+Player Hand: 10 Clubs Q Spade 5 Spade 
+The outcome of battle 55 is WAR!!!
+The outcome of war 3 is Player 2
+Battle Number: 56
+Player Number: Player 1
+Player Hand: 2 Spade 7 Spade 2 Clubs 
+Battle Number: 56
+Player Number: Player 2
+Player Hand: 9 Diamonds 9 Spade 8 Hearts 
+The outcome of battle 56 is Player 2
+Battle Number: 57
+Player Number: Player 1
+Player Hand: 6 Clubs K Clubs A Clubs 
+Battle Number: 57
+Player Number: Player 2
+Player Hand: 6 Diamonds 7 Clubs J Spade 
+The outcome of battle 57 is Player 1
+Battle Number: 58
+Player Number: Player 1
+Player Hand: 8 Spade 3 Clubs 6 Clubs 
+Battle Number: 58
+Player Number: Player 2
+Player Hand: 5 Hearts 10 Spade 5 Diamonds 
+The outcome of battle 58 is Player 1
+Battle Number: 59
+Player Number: Player 1
+Player Hand: 6 Diamonds K Clubs 7 Clubs 
+Battle Number: 59
+Player Number: Player 2
+Player Hand: K Hearts 8 Diamonds 9 Hearts 
+The outcome of battle 59 is Player 2
+Battle Number: 60
+Player Number: Player 1
+Player Hand: A Clubs J Spade 8 Spade 
+Battle Number: 60
+Player Number: Player 2
+Player Hand: 6 Hearts K Spade A Diamonds 
+The outcome of battle 60 is Player 2
+Battle Number: 61
+Player Number: Player 1
+Player Hand: 5 Hearts 3 Clubs 10 Spade 
+Battle Number: 61
+Player Number: Player 2
+Player Hand: 7 Diamonds 7 Hearts Q Clubs 
+The outcome of battle 61 is Player 2
+Battle Number: 62
+Player Number: Player 1
+Player Hand: 6 Clubs 5 Diamonds null 
+Battle Number: 62
+Player Number: Player 2
+Player Hand: K Diamonds 2 Diamonds 4 Diamonds 
+The outcome of battle 62 is Player 1
+Battle Number: 63
+Player Number: Player 1
+Player Hand: 6 Clubs K Diamonds 5 Diamonds 
+Battle Number: 63
+Player Number: Player 2
+Player Hand: A Spade 2 Hearts 5 Clubs 
+The outcome of battle 63 is Player 1
+Battle Number: 64
+Player Number: Player 1
+Player Hand: 2 Diamonds 4 Diamonds 6 Clubs 
+Battle Number: 64
+Player Number: Player 2
+Player Hand: 4 Clubs 4 Hearts J Clubs 
+The outcome of battle 64 is WAR!!!
+The outcome of war 4 is Player 1
+Battle Number: 65
+Player Number: Player 1
+Player Hand: K Diamonds 2 Hearts 5 Diamonds 
+Battle Number: 65
+Player Number: Player 2
+Player Hand: 3 Spade 9 Clubs 3 Diamonds 
+The outcome of battle 65 is Player 1
+Battle Number: 66
+Player Number: Player 1
+Player Hand: 5 Clubs 2 Diamonds 4 Clubs 
+Battle Number: 66
+Player Number: Player 2
+Player Hand: 6 Spade Q Diamonds Q Hearts 
+The outcome of battle 66 is Player 2
+Battle Number: 67
+Player Number: Player 1
+Player Hand: 4 Diamonds 4 Hearts 6 Clubs 
+Battle Number: 67
+Player Number: Player 2
+Player Hand: 3 Hearts J Diamonds 8 Clubs 
+The outcome of battle 67 is Player 2
+Battle Number: 68
+Player Number: Player 1
+Player Hand: J Clubs A Spade J Hearts 
+Battle Number: 68
+Player Number: Player 2
+Player Hand: 10 Clubs 10 Hearts Q Spade 
+The outcome of battle 68 is Player 1
+Battle Number: 69
+Player Number: Player 1
+Player Hand: K Diamonds 3 Spade 2 Hearts 
+Battle Number: 69
+Player Number: Player 2
+Player Hand: 10 Diamonds 5 Spade 4 Spade 
+The outcome of battle 69 is Player 2
+Battle Number: 70
+Player Number: Player 1
+Player Hand: 9 Clubs 5 Diamonds 3 Diamonds 
+Battle Number: 70
+Player Number: Player 2
+Player Hand: A Hearts 2 Spade 9 Diamonds 
+The outcome of battle 70 is Player 2
+Battle Number: 71
+Player Number: Player 1
+Player Hand: J Clubs 10 Clubs A Spade 
+Battle Number: 71
+Player Number: Player 2
+Player Hand: 7 Spade 9 Spade 2 Clubs 
+The outcome of battle 71 is Player 1
+Battle Number: 72
+Player Number: Player 1
+Player Hand: 10 Hearts J Hearts Q Spade 
+Battle Number: 72
+Player Number: Player 2
+Player Hand: 8 Hearts 6 Diamonds K Hearts 
+The outcome of battle 72 is Player 1
+Battle Number: 73
+Player Number: Player 1
+Player Hand: J Clubs 7 Spade 10 Clubs 
+Battle Number: 73
+Player Number: Player 2
+Player Hand: K Clubs 8 Diamonds 7 Clubs 
+The outcome of battle 73 is Player 1
+Battle Number: 74
+Player Number: Player 1
+Player Hand: 9 Spade A Spade 2 Clubs 
+Battle Number: 74
+Player Number: Player 2
+Player Hand: 9 Hearts A Clubs 6 Hearts 
+The outcome of battle 74 is WAR!!!
+The outcome of war 5 is Player 2
+Battle Number: 75
+Player Number: Player 1
+Player Hand: 8 Hearts J Hearts 6 Diamonds 
+Battle Number: 75
+Player Number: Player 2
+Player Hand: K Spade 8 Spade A Diamonds 
+The outcome of battle 75 is Player 2
+Battle Number: 76
+Player Number: Player 1
+Player Hand: Q Spade K Hearts J Clubs 
+Battle Number: 76
+Player Number: Player 2
+Player Hand: 5 Hearts 7 Diamonds 3 Clubs 
+The outcome of battle 76 is Player 1
+Battle Number: 77
+Player Number: Player 1
+Player Hand: K Clubs 7 Spade 8 Diamonds 
+Battle Number: 77
+Player Number: Player 2
+Player Hand: 7 Hearts 10 Spade Q Clubs 
+The outcome of battle 77 is Player 2
+Battle Number: 78
+Player Number: Player 1
+Player Hand: 10 Clubs 7 Clubs Q Spade 
+Battle Number: 78
+Player Number: Player 2
+Player Hand: 5 Clubs 6 Spade 2 Diamonds 
+The outcome of battle 78 is Player 1
+Battle Number: 79
+Player Number: Player 1
+Player Hand: 5 Hearts K Hearts 7 Diamonds 
+Battle Number: 79
+Player Number: Player 2
+Player Hand: Q Diamonds 4 Clubs Q Hearts 
+The outcome of battle 79 is Player 2
+Battle Number: 80
+Player Number: Player 1
+Player Hand: J Clubs 3 Clubs 10 Clubs 
+Battle Number: 80
+Player Number: Player 2
+Player Hand: 4 Diamonds 3 Hearts 4 Hearts 
+The outcome of battle 80 is Player 1
+Battle Number: 81
+Player Number: Player 1
+Player Hand: 5 Clubs 7 Clubs 6 Spade 
+Battle Number: 81
+Player Number: Player 2
+Player Hand: J Diamonds 6 Clubs 8 Clubs 
+The outcome of battle 81 is Player 2
+Battle Number: 82
+Player Number: Player 1
+Player Hand: Q Spade 2 Diamonds J Clubs 
+Battle Number: 82
+Player Number: Player 2
+Player Hand: K Diamonds 10 Diamonds 3 Spade 
+The outcome of battle 82 is Player 1
+Battle Number: 83
+Player Number: Player 1
+Player Hand: 4 Diamonds 3 Clubs 3 Hearts 
+Battle Number: 83
+Player Number: Player 2
+Player Hand: 5 Spade 2 Hearts 4 Spade 
+The outcome of battle 83 is Player 2
+Battle Number: 84
+Player Number: Player 1
+Player Hand: 10 Clubs 4 Hearts Q Spade 
+Battle Number: 84
+Player Number: Player 2
+Player Hand: 9 Clubs A Hearts 5 Diamonds 
+The outcome of battle 84 is Player 1
+Battle Number: 85
+Player Number: Player 1
+Player Hand: K Diamonds 2 Diamonds 10 Diamonds 
+Battle Number: 85
+Player Number: Player 2
+Player Hand: 2 Spade 3 Diamonds 9 Diamonds 
+The outcome of battle 85 is Player 1
+Battle Number: 86
+Player Number: Player 1
+Player Hand: J Clubs 3 Spade 10 Clubs 
+Battle Number: 86
+Player Number: Player 2
+Player Hand: 9 Spade 9 Hearts A Spade 
+The outcome of battle 86 is Player 1
+Battle Number: 87
+Player Number: Player 1
+Player Hand: 9 Clubs 4 Hearts A Hearts 
+Battle Number: 87
+Player Number: Player 2
+Player Hand: A Clubs 2 Clubs 6 Hearts 
+The outcome of battle 87 is Player 1
+Battle Number: 88
+Player Number: Player 1
+Player Hand: Q Spade 5 Diamonds K Diamonds 
+Battle Number: 88
+Player Number: Player 2
+Player Hand: 10 Hearts J Spade 8 Hearts 
+The outcome of battle 88 is Player 1
+Battle Number: 89
+Player Number: Player 1
+Player Hand: 2 Spade 2 Diamonds 3 Diamonds 
+Battle Number: 89
+Player Number: Player 2
+Player Hand: K Spade J Hearts 8 Spade 
+The outcome of battle 89 is Player 2
+Battle Number: 90
+Player Number: Player 1
+Player Hand: 10 Diamonds 9 Diamonds J Clubs 
+Battle Number: 90
+Player Number: Player 2
+Player Hand: 6 Diamonds A Diamonds K Clubs 
+The outcome of battle 90 is Player 2
+Battle Number: 91
+Player Number: Player 1
+Player Hand: 9 Spade 3 Spade 9 Hearts 
+Battle Number: 91
+Player Number: Player 2
+Player Hand: 7 Hearts 7 Spade 10 Spade 
+The outcome of battle 91 is Player 1
+Battle Number: 92
+Player Number: Player 1
+Player Hand: 10 Clubs A Spade 9 Clubs 
+Battle Number: 92
+Player Number: Player 2
+Player Hand: 8 Diamonds Q Clubs 5 Hearts 
+The outcome of battle 92 is Player 1
+Battle Number: 93
+Player Number: Player 1
+Player Hand: A Clubs 4 Hearts 2 Clubs 
+Battle Number: 93
+Player Number: Player 2
+Player Hand: Q Diamonds K Hearts 4 Clubs 
+The outcome of battle 93 is Player 2
+Battle Number: 94
+Player Number: Player 1
+Player Hand: A Hearts 6 Hearts Q Spade 
+Battle Number: 94
+Player Number: Player 2
+Player Hand: 7 Diamonds Q Hearts 5 Clubs 
+The outcome of battle 94 is Player 1
+Battle Number: 95
+Player Number: Player 1
+Player Hand: 10 Hearts 5 Diamonds J Spade 
+Battle Number: 95
+Player Number: Player 2
+Player Hand: J Diamonds 7 Clubs 6 Clubs 
+The outcome of battle 95 is Player 1
+Battle Number: 96
+Player Number: Player 1
+Player Hand: K Diamonds 8 Hearts 9 Spade 
+Battle Number: 96
+Player Number: Player 2
+Player Hand: 6 Spade 8 Clubs 4 Diamonds 
+The outcome of battle 96 is Player 1
+Battle Number: 97
+Player Number: Player 1
+Player Hand: 7 Hearts 3 Spade 7 Spade 
+Battle Number: 97
+Player Number: Player 2
+Player Hand: 5 Spade 3 Clubs 2 Hearts 
+The outcome of battle 97 is Player 1
+Battle Number: 98
+Player Number: Player 1
+Player Hand: 9 Hearts 10 Spade 10 Clubs 
+Battle Number: 98
+Player Number: Player 2
+Player Hand: 3 Hearts 4 Spade 2 Spade 
+The outcome of battle 98 is Player 1
+Battle Number: 99
+Player Number: Player 1
+Player Hand: 8 Diamonds A Spade Q Clubs 
+Battle Number: 99
+Player Number: Player 2
+Player Hand: K Spade 2 Diamonds J Hearts 
+The outcome of battle 99 is Player 1
+Battle Number: 100
+Player Number: Player 1
+Player Hand: 9 Clubs 5 Hearts A Hearts 
+Battle Number: 100
+Player Number: Player 2
+Player Hand: 3 Diamonds 8 Spade 10 Diamonds 
+The outcome of battle 100 is Player 1
+Battle Number: 101
+Player Number: Player 1
+Player Hand: 7 Diamonds 6 Hearts Q Hearts 
+Battle Number: 101
+Player Number: Player 2
+Player Hand: 6 Diamonds 9 Diamonds A Diamonds 
+The outcome of battle 101 is Player 2
+Battle Number: 102
+Player Number: Player 1
+Player Hand: Q Spade 5 Clubs 10 Hearts 
+Battle Number: 102
+Player Number: Player 2
+Player Hand: J Clubs K Clubs A Clubs 
+The outcome of battle 102 is Player 2
+Battle Number: 103
+Player Number: Player 1
+Player Hand: J Diamonds 5 Diamonds 7 Clubs 
+Battle Number: 103
+Player Number: Player 2
+Player Hand: Q Diamonds 4 Hearts K Hearts 
+The outcome of battle 103 is Player 2
+Battle Number: 104
+Player Number: Player 1
+Player Hand: J Spade 6 Clubs K Diamonds 
+Battle Number: 104
+Player Number: Player 2
+Player Hand: 2 Clubs 4 Clubs 7 Diamonds 
+The outcome of battle 104 is Player 1
+Battle Number: 105
+Player Number: Player 1
+Player Hand: 6 Spade 8 Hearts 8 Clubs 
+Battle Number: 105
+Player Number: Player 2
+Player Hand: 6 Diamonds 6 Hearts 9 Diamonds 
+The outcome of battle 105 is Player 1
+Battle Number: 106
+Player Number: Player 1
+Player Hand: 9 Spade 4 Diamonds 7 Hearts 
+Battle Number: 106
+Player Number: Player 2
+Player Hand: Q Hearts A Diamonds Q Spade 
+The outcome of battle 106 is Player 2
+Battle Number: 107
+Player Number: Player 1
+Player Hand: 5 Spade 3 Spade 3 Clubs 
+Battle Number: 107
+Player Number: Player 2
+Player Hand: J Clubs 5 Clubs K Clubs 
+The outcome of battle 107 is Player 2
+Battle Number: 108
+Player Number: Player 1
+Player Hand: 7 Spade 2 Hearts 9 Hearts 
+Battle Number: 108
+Player Number: Player 2
+Player Hand: 10 Hearts A Clubs J Diamonds 
+The outcome of battle 108 is Player 2
+Battle Number: 109
+Player Number: Player 1
+Player Hand: 3 Hearts 10 Spade 4 Spade 
+Battle Number: 109
+Player Number: Player 2
+Player Hand: Q Diamonds 5 Diamonds 4 Hearts 
+The outcome of battle 109 is Player 2
+Battle Number: 110
+Player Number: Player 1
+Player Hand: 10 Clubs 2 Spade 8 Diamonds 
+Battle Number: 110
+Player Number: Player 2
+Player Hand: 7 Clubs K Hearts 9 Spade 
+The outcome of battle 110 is Player 2
+Battle Number: 111
+Player Number: Player 1
+Player Hand: K Spade A Spade 2 Diamonds 
+Battle Number: 111
+Player Number: Player 2
+Player Hand: Q Hearts 4 Diamonds A Diamonds 
+The outcome of battle 111 is Player 1
+Battle Number: 112
+Player Number: Player 1
+Player Hand: Q Clubs J Hearts 9 Clubs 
+Battle Number: 112
+Player Number: Player 2
+Player Hand: 7 Hearts Q Spade 5 Spade 
+The outcome of battle 112 is Player 1
+Battle Number: 113
+Player Number: Player 1
+Player Hand: 3 Diamonds 5 Hearts 8 Spade 
+Battle Number: 113
+Player Number: Player 2
+Player Hand: J Clubs 3 Spade 5 Clubs 
+The outcome of battle 113 is WAR!!!
+The outcome of war 6 is Player 1
+Battle Number: 114
+Player Number: Player 1
+Player Hand: 10 Diamonds J Spade 2 Clubs 
+Battle Number: 114
+Player Number: Player 2
+Player Hand: K Clubs 7 Spade 10 Hearts 
+The outcome of battle 114 is WAR!!!
+The outcome of war 7 is Player 1
+Battle Number: 115
+Player Number: Player 1
+Player Hand: 4 Clubs K Diamonds 7 Diamonds 
+Battle Number: 115
+Player Number: Player 2
+Player Hand: A Clubs 9 Hearts J Diamonds 
+The outcome of battle 115 is Player 2
+Battle Number: 116
+Player Number: Player 1
+Player Hand: 6 Spade 6 Diamonds 8 Hearts 
+Battle Number: 116
+Player Number: Player 2
+Player Hand: 3 Hearts Q Diamonds 10 Spade 
+The outcome of battle 116 is Player 2
+Battle Number: 117
+Player Number: Player 1
+Player Hand: 6 Hearts 8 Clubs 9 Diamonds 
+Battle Number: 117
+Player Number: Player 2
+Player Hand: 5 Diamonds 4 Spade 4 Hearts 
+The outcome of battle 117 is Player 1
+Battle Number: 118
+Player Number: Player 1
+Player Hand: K Spade Q Hearts A Spade 
+Battle Number: 118
+Player Number: Player 2
+Player Hand: 10 Clubs 7 Clubs 2 Spade 
+The outcome of battle 118 is Player 1
+Battle Number: 119
+Player Number: Player 1
+Player Hand: 4 Diamonds 2 Diamonds A Diamonds 
+Battle Number: 119
+Player Number: Player 2
+Player Hand: K Hearts 8 Diamonds 9 Spade 
+The outcome of battle 119 is Player 2
+Battle Number: 120
+Player Number: Player 1
+Player Hand: Q Clubs 7 Hearts J Hearts 
+Battle Number: 120
+Player Number: Player 2
+Player Hand: 4 Clubs A Clubs K Diamonds 
+The outcome of battle 120 is Player 2
+Battle Number: 121
+Player Number: Player 1
+Player Hand: Q Spade 9 Clubs 5 Spade 
+Battle Number: 121
+Player Number: Player 2
+Player Hand: 9 Hearts 7 Diamonds J Diamonds 
+The outcome of battle 121 is WAR!!!
+The outcome of war 8 is Player 2
+Battle Number: 122
+Player Number: Player 1
+Player Hand: J Clubs 5 Hearts 3 Spade 
+Battle Number: 122
+Player Number: Player 2
+Player Hand: 3 Hearts 6 Diamonds Q Diamonds 
+The outcome of battle 122 is Player 2
+Battle Number: 123
+Player Number: Player 1
+Player Hand: 8 Spade 5 Clubs A Hearts 
+Battle Number: 123
+Player Number: Player 2
+Player Hand: 8 Hearts 10 Spade 4 Diamonds 
+The outcome of battle 123 is WAR!!!
+The outcome of war 9 is Player 2
+Battle Number: 124
+Player Number: Player 1
+Player Hand: 10 Diamonds K Clubs J Spade 
+Battle Number: 124
+Player Number: Player 2
+Player Hand: 2 Diamonds 8 Diamonds A Diamonds 
+The outcome of battle 124 is Player 1
+Battle Number: 125
+Player Number: Player 1
+Player Hand: 7 Spade 2 Clubs 10 Hearts 
+Battle Number: 125
+Player Number: Player 2
+Player Hand: 9 Spade Q Clubs 4 Clubs 
+The outcome of battle 125 is Player 2
+Battle Number: 126
+Player Number: Player 1
+Player Hand: 6 Clubs 2 Hearts 6 Hearts 
+Battle Number: 126
+Player Number: Player 2
+Player Hand: 7 Hearts A Clubs J Hearts 
+The outcome of battle 126 is Player 2
+Battle Number: 127
+Player Number: Player 1
+Player Hand: 5 Diamonds 8 Clubs 4 Spade 
+Battle Number: 127
+Player Number: Player 2
+Player Hand: K Diamonds Q Spade 9 Hearts 
+The outcome of battle 127 is Player 2
+Battle Number: 128
+Player Number: Player 1
+Player Hand: 9 Diamonds 4 Hearts K Spade 
+Battle Number: 128
+Player Number: Player 2
+Player Hand: 9 Clubs 7 Diamonds 5 Spade 
+The outcome of battle 128 is Player 1
+Battle Number: 129
+Player Number: Player 1
+Player Hand: 10 Clubs Q Hearts 7 Clubs 
+Battle Number: 129
+Player Number: Player 2
+Player Hand: J Diamonds 3 Diamonds 6 Spade 
+The outcome of battle 129 is Player 1
+Battle Number: 130
+Player Number: Player 1
+Player Hand: A Spade 2 Spade 10 Diamonds 
+Battle Number: 130
+Player Number: Player 2
+Player Hand: J Clubs 3 Hearts 5 Hearts 
+The outcome of battle 130 is Player 1
+Battle Number: 131
+Player Number: Player 1
+Player Hand: 2 Diamonds K Clubs 8 Diamonds 
+Battle Number: 131
+Player Number: Player 2
+Player Hand: 6 Diamonds 3 Spade Q Diamonds 
+The outcome of battle 131 is Player 1
+Battle Number: 132
+Player Number: Player 1
+Player Hand: J Spade A Diamonds 9 Diamonds 
+Battle Number: 132
+Player Number: Player 2
+Player Hand: 8 Spade 8 Hearts 5 Clubs 
+The outcome of battle 132 is Player 1
+Battle Number: 133
+Player Number: Player 1
+Player Hand: 9 Clubs 4 Hearts 7 Diamonds 
+Battle Number: 133
+Player Number: Player 2
+Player Hand: 10 Spade A Hearts 4 Diamonds 
+The outcome of battle 133 is Player 2
+Battle Number: 134
+Player Number: Player 1
+Player Hand: K Spade 5 Spade 10 Clubs 
+Battle Number: 134
+Player Number: Player 2
+Player Hand: 3 Clubs K Hearts 7 Spade 
+The outcome of battle 134 is Player 1
+Battle Number: 135
+Player Number: Player 1
+Player Hand: J Diamonds Q Hearts 3 Diamonds 
+Battle Number: 135
+Player Number: Player 2
+Player Hand: 9 Spade 2 Clubs Q Clubs 
+The outcome of battle 135 is Player 1
+Battle Number: 136
+Player Number: Player 1
+Player Hand: 7 Clubs 6 Spade A Spade 
+Battle Number: 136
+Player Number: Player 2
+Player Hand: 10 Hearts 4 Clubs 6 Clubs 
+The outcome of battle 136 is Player 1
+Battle Number: 137
+Player Number: Player 1
+Player Hand: J Clubs 2 Spade 3 Hearts 
+Battle Number: 137
+Player Number: Player 2
+Player Hand: 7 Hearts 2 Hearts A Clubs 
+The outcome of battle 137 is Player 2
+Battle Number: 138
+Player Number: Player 1
+Player Hand: 10 Diamonds 5 Hearts 2 Diamonds 
+Battle Number: 138
+Player Number: Player 2
+Player Hand: 6 Hearts J Hearts 5 Diamonds 
+The outcome of battle 138 is Player 2
+Battle Number: 139
+Player Number: Player 1
+Player Hand: 6 Diamonds K Clubs 3 Spade 
+Battle Number: 139
+Player Number: Player 2
+Player Hand: K Diamonds 8 Clubs Q Spade 
+The outcome of battle 139 is Player 2
+Battle Number: 140
+Player Number: Player 1
+Player Hand: 8 Diamonds Q Diamonds J Spade 
+Battle Number: 140
+Player Number: Player 2
+Player Hand: 4 Spade 9 Hearts 9 Clubs 
+The outcome of battle 140 is Player 1
+Battle Number: 141
+Player Number: Player 1
+Player Hand: 8 Spade A Diamonds 8 Hearts 
+Battle Number: 141
+Player Number: Player 2
+Player Hand: 10 Spade 4 Hearts A Hearts 
+The outcome of battle 141 is Player 2
+Battle Number: 142
+Player Number: Player 1
+Player Hand: 9 Diamonds 5 Clubs K Spade 
+Battle Number: 142
+Player Number: Player 2
+Player Hand: 7 Diamonds 4 Diamonds J Clubs 
+The outcome of battle 142 is Player 1
+Battle Number: 143
+Player Number: Player 1
+Player Hand: 3 Clubs 5 Spade K Hearts 
+Battle Number: 143
+Player Number: Player 2
+Player Hand: 7 Hearts 2 Spade 2 Hearts 
+The outcome of battle 143 is Player 1
+Battle Number: 144
+Player Number: Player 1
+Player Hand: 10 Clubs 7 Spade J Diamonds 
+Battle Number: 144
+Player Number: Player 2
+Player Hand: 3 Hearts A Clubs 10 Diamonds 
+The outcome of battle 144 is WAR!!!
+The outcome of war 10 is Player 1
+Battle Number: 145
+Player Number: Player 1
+Player Hand: Q Hearts 2 Clubs 3 Diamonds 
+Battle Number: 145
+Player Number: Player 2
+Player Hand: 5 Hearts J Hearts 2 Diamonds 
+The outcome of battle 145 is Player 2
+Battle Number: 146
+Player Number: Player 1
+Player Hand: Q Clubs 7 Clubs 10 Hearts 
+Battle Number: 146
+Player Number: Player 2
+Player Hand: 5 Diamonds 6 Diamonds K Diamonds 
+The outcome of battle 146 is Player 1
+Battle Number: 147
+Player Number: Player 1
+Player Hand: 6 Spade 4 Clubs A Spade 
+Battle Number: 147
+Player Number: Player 2
+Player Hand: K Clubs 8 Clubs 3 Spade 
+The outcome of battle 147 is Player 2
+Battle Number: 148
+Player Number: Player 1
+Player Hand: 6 Clubs 8 Diamonds 4 Spade 
+Battle Number: 148
+Player Number: Player 2
+Player Hand: Q Spade 8 Spade 10 Spade 
+The outcome of battle 148 is Player 2
+Battle Number: 149
+Player Number: Player 1
+Player Hand: Q Diamonds 9 Hearts J Spade 
+Battle Number: 149
+Player Number: Player 2
+Player Hand: A Diamonds 4 Hearts 8 Hearts 
+The outcome of battle 149 is Player 1
+Battle Number: 150
+Player Number: Player 1
+Player Hand: 9 Clubs 9 Diamonds 7 Diamonds 
+Battle Number: 150
+Player Number: Player 2
+Player Hand: A Hearts Q Hearts 5 Hearts 
+The outcome of battle 150 is Player 2
+Battle Number: 151
+Player Number: Player 1
+Player Hand: 5 Clubs 4 Diamonds K Spade 
+Battle Number: 151
+Player Number: Player 2
+Player Hand: 2 Clubs J Hearts 3 Diamonds 
+The outcome of battle 151 is Player 1
+Battle Number: 152
+Player Number: Player 1
+Player Hand: J Clubs 3 Clubs 7 Hearts 
+Battle Number: 152
+Player Number: Player 2
+Player Hand: 2 Diamonds 6 Spade K Clubs 
+The outcome of battle 152 is Player 1
+Battle Number: 153
+Player Number: Player 1
+Player Hand: 5 Spade 2 Spade K Hearts 
+Battle Number: 153
+Player Number: Player 2
+Player Hand: 4 Clubs 8 Clubs A Spade 
+The outcome of battle 153 is Player 2
+Battle Number: 154
+Player Number: Player 1
+Player Hand: 2 Hearts 10 Clubs 3 Hearts 
+Battle Number: 154
+Player Number: Player 2
+Player Hand: 3 Spade 6 Clubs Q Spade 
+The outcome of battle 154 is Player 2
+Battle Number: 155
+Player Number: Player 1
+Player Hand: 7 Spade A Clubs J Diamonds 
+Battle Number: 155
+Player Number: Player 2
+Player Hand: 8 Diamonds 8 Spade 4 Spade 
+The outcome of battle 155 is Player 1
+Battle Number: 156
+Player Number: Player 1
+Player Hand: 10 Diamonds 9 Spade 6 Hearts 
+Battle Number: 156
+Player Number: Player 2
+Player Hand: 10 Spade 9 Clubs A Hearts 
+The outcome of battle 156 is Player 2
+Battle Number: 157
+Player Number: Player 1
+Player Hand: Q Clubs 5 Diamonds 7 Clubs 
+Battle Number: 157
+Player Number: Player 2
+Player Hand: 9 Diamonds Q Hearts 7 Diamonds 
+The outcome of battle 157 is Player 2
+Battle Number: 158
+Player Number: Player 1
+Player Hand: 6 Diamonds 10 Hearts K Diamonds 
+Battle Number: 158
+Player Number: Player 2
+Player Hand: 5 Hearts 5 Spade 4 Clubs 
+The outcome of battle 158 is Player 1
+Battle Number: 159
+Player Number: Player 1
+Player Hand: Q Diamonds A Diamonds 9 Hearts 
+Battle Number: 159
+Player Number: Player 2
+Player Hand: 2 Spade 8 Clubs K Hearts 
+The outcome of battle 159 is Player 1
+Battle Number: 160
+Player Number: Player 1
+Player Hand: 4 Hearts J Spade 8 Hearts 
+Battle Number: 160
+Player Number: Player 2
+Player Hand: A Spade 2 Hearts 3 Spade 
+The outcome of battle 160 is Player 1
+Battle Number: 161
+Player Number: Player 1
+Player Hand: 5 Clubs 2 Clubs 4 Diamonds 
+Battle Number: 161
+Player Number: Player 2
+Player Hand: 10 Clubs 6 Clubs 3 Hearts 
+The outcome of battle 161 is Player 2
+Battle Number: 162
+Player Number: Player 1
+Player Hand: J Hearts K Spade 3 Diamonds 
+Battle Number: 162
+Player Number: Player 2
+Player Hand: Q Spade 10 Diamonds 10 Spade 
+The outcome of battle 162 is Player 1
+Battle Number: 163
+Player Number: Player 1
+Player Hand: J Clubs 2 Diamonds 3 Clubs 
+Battle Number: 163
+Player Number: Player 2
+Player Hand: 9 Spade 9 Clubs 6 Hearts 
+The outcome of battle 163 is Player 2
+Battle Number: 164
+Player Number: Player 1
+Player Hand: 6 Spade 7 Hearts K Clubs 
+Battle Number: 164
+Player Number: Player 2
+Player Hand: A Hearts Q Clubs 9 Diamonds 
+The outcome of battle 164 is Player 2
+Battle Number: 165
+Player Number: Player 1
+Player Hand: 7 Spade 8 Diamonds A Clubs 
+Battle Number: 165
+Player Number: Player 2
+Player Hand: 5 Diamonds Q Hearts 7 Clubs 
+The outcome of battle 165 is Player 1
+Battle Number: 166
+Player Number: Player 1
+Player Hand: 8 Spade J Diamonds 4 Spade 
+Battle Number: 166
+Player Number: Player 2
+Player Hand: 7 Diamonds 5 Clubs 10 Clubs 
+The outcome of battle 166 is Player 1
+Battle Number: 167
+Player Number: Player 1
+Player Hand: 6 Diamonds 5 Hearts 10 Hearts 
+Battle Number: 167
+Player Number: Player 2
+Player Hand: 2 Clubs 6 Clubs 4 Diamonds 
+The outcome of battle 167 is Player 1
+Battle Number: 168
+Player Number: Player 1
+Player Hand: 5 Spade K Diamonds 4 Clubs 
+Battle Number: 168
+Player Number: Player 2
+Player Hand: 3 Hearts J Clubs 9 Spade 
+The outcome of battle 168 is Player 2
+Battle Number: 169
+Player Number: Player 1
+Player Hand: Q Diamonds 2 Spade A Diamonds 
+Battle Number: 169
+Player Number: Player 2
+Player Hand: 2 Diamonds 9 Clubs 3 Clubs 
+The outcome of battle 169 is Player 1
+Battle Number: 170
+Player Number: Player 1
+Player Hand: 8 Clubs 9 Hearts K Hearts 
+Battle Number: 170
+Player Number: Player 2
+Player Hand: 6 Hearts 6 Spade A Hearts 
+The outcome of battle 170 is Player 1
+Battle Number: 171
+Player Number: Player 1
+Player Hand: 4 Hearts A Spade J Spade 
+Battle Number: 171
+Player Number: Player 2
+Player Hand: 7 Hearts Q Clubs K Clubs 
+The outcome of battle 171 is Player 2
+Battle Number: 172
+Player Number: Player 1
+Player Hand: 2 Hearts 8 Hearts 3 Spade 
+Battle Number: 172
+Player Number: Player 2
+Player Hand: 9 Diamonds 5 Spade 3 Hearts 
+The outcome of battle 172 is Player 2
+Battle Number: 173
+Player Number: Player 1
+Player Hand: J Hearts Q Spade K Spade 
+Battle Number: 173
+Player Number: Player 2
+Player Hand: K Diamonds J Clubs 4 Clubs 
+The outcome of battle 173 is Player 1
+Battle Number: 174
+Player Number: Player 1
+Player Hand: 10 Diamonds 3 Diamonds 10 Spade 
+Battle Number: 174
+Player Number: Player 2
+Player Hand: 9 Spade 4 Hearts 7 Hearts 
+The outcome of battle 174 is Player 1
+Battle Number: 175
+Player Number: Player 1
+Player Hand: 7 Spade 5 Diamonds 8 Diamonds 
+Battle Number: 175
+Player Number: Player 2
+Player Hand: A Spade Q Clubs J Spade 
+The outcome of battle 175 is Player 2
+Battle Number: 176
+Player Number: Player 1
+Player Hand: Q Hearts A Clubs 7 Clubs 
+Battle Number: 176
+Player Number: Player 2
+Player Hand: K Clubs 2 Hearts 9 Diamonds 
+The outcome of battle 176 is Player 1
+Battle Number: 177
+Player Number: Player 1
+Player Hand: 8 Spade 7 Diamonds J Diamonds 
+Battle Number: 177
+Player Number: Player 2
+Player Hand: 8 Hearts 5 Spade 3 Spade 
+The outcome of battle 177 is Player 1
+Battle Number: 178
+Player Number: Player 1
+Player Hand: 5 Clubs 4 Spade 10 Clubs 
+Battle Number: 178
+Player Number: Player 2
+Player Hand: 3 Hearts 7 Spade A Spade 
+The outcome of battle 178 is Player 2
+Battle Number: 179
+Player Number: Player 1
+Player Hand: 6 Diamonds 2 Clubs 5 Hearts 
+Battle Number: 179
+Player Number: Player 2
+Player Hand: 5 Diamonds Q Clubs 8 Diamonds 
+The outcome of battle 179 is Player 2
+Battle Number: 180
+Player Number: Player 1
+Player Hand: 6 Clubs 10 Hearts 4 Diamonds 
+Battle Number: 180
+Player Number: Player 2
+Player Hand: J Spade 5 Clubs 3 Hearts 
+The outcome of battle 180 is Player 1
+Battle Number: 181
+Player Number: Player 1
+Player Hand: Q Diamonds 2 Diamonds 2 Spade 
+Battle Number: 181
+Player Number: Player 2
+Player Hand: 4 Spade 7 Spade 10 Clubs 
+The outcome of battle 181 is Player 2
+Battle Number: 182
+Player Number: Player 1
+Player Hand: 9 Clubs A Diamonds 3 Clubs 
+Battle Number: 182
+Player Number: Player 2
+Player Hand: A Spade 6 Diamonds 5 Diamonds 
+The outcome of battle 182 is Player 1
+Battle Number: 183
+Player Number: Player 1
+Player Hand: 8 Clubs 6 Hearts 9 Hearts 
+Battle Number: 183
+Player Number: Player 2
+Player Hand: 2 Clubs Q Clubs 5 Hearts 
+The outcome of battle 183 is Player 1
+Battle Number: 184
+Player Number: Player 1
+Player Hand: 6 Spade K Hearts A Hearts 
+Battle Number: 184
+Player Number: Player 2
+Player Hand: 8 Diamonds Q Diamonds 4 Spade 
+The outcome of battle 184 is Player 1
+Battle Number: 185
+Player Number: Player 1
+Player Hand: J Hearts K Diamonds Q Spade 
+Battle Number: 185
+Player Number: Player 2
+Player Hand: 2 Diamonds 7 Spade 2 Spade 
+The outcome of battle 185 is Player 1
+Battle Number: 186
+Player Number: Player 1
+Player Hand: J Clubs K Spade 4 Clubs 
+Battle Number: 186
+Player Number: Player 2
+Player Hand: 10 Clubs null null 
+The outcome of battle 186 is Player 1
+The winner of game 2 is Player 1
+Battle Number: 1
+Player Number: Player 1
+Player Hand: 6 Clubs 5 Diamonds 3 Spade 
+Battle Number: 1
+Player Number: Player 2
+Player Hand: 10 Clubs 5 Spade 3 Clubs 
+The outcome of battle 1 is WAR!!!
+The outcome of war 1 is WAR!!!
+The outcome of war 2 is Player 2
+Battle Number: 2
+Player Number: Player 1
+Player Hand: K Spade Q Diamonds A Diamonds 
+Battle Number: 2
+Player Number: Player 2
+Player Hand: 7 Clubs J Hearts 3 Diamonds 
+The outcome of battle 2 is Player 1
+Battle Number: 3
+Player Number: Player 1
+Player Hand: Q Hearts 6 Spade 2 Spade 
+Battle Number: 3
+Player Number: Player 2
+Player Hand: 10 Spade A Spade J Spade 
+The outcome of battle 3 is Player 2
+Battle Number: 4
+Player Number: Player 1
+Player Hand: J Diamonds 7 Hearts 9 Clubs 
+Battle Number: 4
+Player Number: Player 2
+Player Hand: 7 Diamonds 6 Diamonds 9 Spade 
+The outcome of battle 4 is Player 1
+Battle Number: 5
+Player Number: Player 1
+Player Hand: 2 Diamonds 4 Clubs 8 Clubs 
+Battle Number: 5
+Player Number: Player 2
+Player Hand: K Hearts 8 Spade 2 Clubs 
+The outcome of battle 5 is Player 2
+Battle Number: 6
+Player Number: Player 1
+Player Hand: K Clubs K Diamonds 4 Spade 
+Battle Number: 6
+Player Number: Player 2
+Player Hand: 6 Hearts Q Spade A Clubs 
+The outcome of battle 6 is Player 1
+Battle Number: 7
+Player Number: Player 1
+Player Hand: J Clubs Q Clubs 4 Hearts 
+Battle Number: 7
+Player Number: Player 2
+Player Hand: 4 Diamonds 7 Spade A Hearts 
+The outcome of battle 7 is Player 1
+Battle Number: 8
+Player Number: Player 1
+Player Hand: 5 Clubs 2 Hearts 10 Hearts 
+Battle Number: 8
+Player Number: Player 2
+Player Hand: 5 Hearts 9 Hearts 3 Hearts 
+The outcome of battle 8 is WAR!!!
+The outcome of war 2 is Player 1
+Battle Number: 9
+Player Number: Player 1
+Player Hand: 7 Clubs Q Diamonds J Hearts 
+Battle Number: 9
+Player Number: Player 2
+Player Hand: 10 Clubs 5 Diamonds 5 Spade 
+The outcome of battle 9 is Player 1
+Battle Number: 10
+Player Number: Player 1
+Player Hand: A Diamonds 3 Diamonds J Diamonds 
+Battle Number: 10
+Player Number: Player 2
+Player Hand: 3 Spade 3 Clubs 8 Diamonds 
+The outcome of battle 10 is Player 1
+Battle Number: 11
+Player Number: Player 1
+Player Hand: 7 Diamonds 7 Hearts 6 Diamonds 
+Battle Number: 11
+Player Number: Player 2
+Player Hand: 8 Hearts 9 Diamonds 10 Diamonds 
+The outcome of battle 11 is Player 2
+Battle Number: 12
+Player Number: Player 1
+Player Hand: 9 Clubs 9 Spade K Clubs 
+Battle Number: 12
+Player Number: Player 2
+Player Hand: Q Hearts 10 Spade 6 Spade 
+The outcome of battle 12 is Player 2
+Battle Number: 13
+Player Number: Player 1
+Player Hand: 6 Hearts K Diamonds Q Spade 
+Battle Number: 13
+Player Number: Player 2
+Player Hand: A Spade 2 Spade J Spade 
+The outcome of battle 13 is Player 1
+Battle Number: 14
+Player Number: Player 1
+Player Hand: 4 Spade A Clubs J Clubs 
+Battle Number: 14
+Player Number: Player 2
+Player Hand: 2 Diamonds K Hearts 4 Clubs 
+The outcome of battle 14 is Player 1
+Battle Number: 15
+Player Number: Player 1
+Player Hand: 4 Diamonds Q Clubs 7 Spade 
+Battle Number: 15
+Player Number: Player 2
+Player Hand: 8 Spade 8 Clubs 2 Clubs 
+The outcome of battle 15 is Player 2
+Battle Number: 16
+Player Number: Player 1
+Player Hand: 4 Hearts A Hearts 5 Clubs 
+Battle Number: 16
+Player Number: Player 2
+Player Hand: 7 Diamonds 8 Hearts 7 Hearts 
+The outcome of battle 16 is Player 2
+Battle Number: 17
+Player Number: Player 1
+Player Hand: 5 Hearts 2 Hearts 9 Hearts 
+Battle Number: 17
+Player Number: Player 2
+Player Hand: 9 Diamonds 6 Diamonds 10 Diamonds 
+The outcome of battle 17 is Player 2
+Battle Number: 18
+Player Number: Player 1
+Player Hand: 10 Hearts 3 Hearts K Spade 
+Battle Number: 18
+Player Number: Player 2
+Player Hand: 9 Clubs Q Hearts 9 Spade 
+The outcome of battle 18 is Player 1
+Battle Number: 19
+Player Number: Player 1
+Player Hand: 6 Clubs 7 Clubs 10 Clubs 
+Battle Number: 19
+Player Number: Player 2
+Player Hand: 10 Spade K Clubs 6 Spade 
+The outcome of battle 19 is Player 2
+Battle Number: 20
+Player Number: Player 1
+Player Hand: Q Diamonds 5 Diamonds J Hearts 
+Battle Number: 20
+Player Number: Player 2
+Player Hand: 4 Diamonds 8 Spade Q Clubs 
+The outcome of battle 20 is Player 1
+Battle Number: 21
+Player Number: Player 1
+Player Hand: 5 Spade A Diamonds 3 Spade 
+Battle Number: 21
+Player Number: Player 2
+Player Hand: 8 Clubs 7 Spade 2 Clubs 
+The outcome of battle 21 is Player 2
+Battle Number: 22
+Player Number: Player 1
+Player Hand: 3 Diamonds 3 Clubs J Diamonds 
+Battle Number: 22
+Player Number: Player 2
+Player Hand: 4 Hearts 7 Diamonds A Hearts 
+The outcome of battle 22 is Player 2
+Battle Number: 23
+Player Number: Player 1
+Player Hand: 8 Diamonds 6 Hearts A Spade 
+Battle Number: 23
+Player Number: Player 2
+Player Hand: 8 Hearts 5 Clubs 7 Hearts 
+The outcome of battle 23 is Player 1
+Battle Number: 24
+Player Number: Player 1
+Player Hand: K Diamonds 2 Spade Q Spade 
+Battle Number: 24
+Player Number: Player 2
+Player Hand: 5 Hearts 9 Diamonds 2 Hearts 
+The outcome of battle 24 is Player 1
+Battle Number: 25
+Player Number: Player 1
+Player Hand: J Spade 4 Spade 2 Diamonds 
+Battle Number: 25
+Player Number: Player 2
+Player Hand: 6 Diamonds 9 Hearts 10 Diamonds 
+The outcome of battle 25 is Player 2
+Battle Number: 26
+Player Number: Player 1
+Player Hand: A Clubs K Hearts J Clubs 
+Battle Number: 26
+Player Number: Player 2
+Player Hand: 6 Clubs 10 Spade 7 Clubs 
+The outcome of battle 26 is Player 1
+Battle Number: 27
+Player Number: Player 1
+Player Hand: 4 Clubs 10 Hearts 9 Clubs 
+Battle Number: 27
+Player Number: Player 2
+Player Hand: K Clubs 10 Clubs 6 Spade 
+The outcome of battle 27 is Player 2
+Battle Number: 28
+Player Number: Player 1
+Player Hand: 3 Hearts Q Hearts K Spade 
+Battle Number: 28
+Player Number: Player 2
+Player Hand: 5 Spade 8 Clubs A Diamonds 
+The outcome of battle 28 is Player 1
+Battle Number: 29
+Player Number: Player 1
+Player Hand: 9 Spade Q Diamonds 4 Diamonds 
+Battle Number: 29
+Player Number: Player 2
+Player Hand: 7 Spade 3 Spade 2 Clubs 
+The outcome of battle 29 is Player 1
+Battle Number: 30
+Player Number: Player 1
+Player Hand: 5 Diamonds 8 Spade J Hearts 
+Battle Number: 30
+Player Number: Player 2
+Player Hand: 3 Diamonds 4 Hearts 3 Clubs 
+The outcome of battle 30 is Player 1
+Battle Number: 31
+Player Number: Player 1
+Player Hand: Q Clubs 8 Diamonds 8 Hearts 
+Battle Number: 31
+Player Number: Player 2
+Player Hand: 7 Diamonds J Diamonds A Hearts 
+The outcome of battle 31 is Player 2
+Battle Number: 32
+Player Number: Player 1
+Player Hand: 6 Hearts 5 Clubs A Spade 
+Battle Number: 32
+Player Number: Player 2
+Player Hand: J Spade 6 Diamonds 4 Spade 
+The outcome of battle 32 is WAR!!!
+The outcome of war 3 is Player 2
+Battle Number: 33
+Player Number: Player 1
+Player Hand: K Diamonds 5 Hearts 2 Spade 
+Battle Number: 33
+Player Number: Player 2
+Player Hand: 2 Diamonds 10 Diamonds 4 Clubs 
+The outcome of battle 33 is Player 1
+Battle Number: 34
+Player Number: Player 1
+Player Hand: 9 Diamonds Q Spade 2 Hearts 
+Battle Number: 34
+Player Number: Player 2
+Player Hand: K Clubs 10 Hearts 10 Clubs 
+The outcome of battle 34 is Player 2
+Battle Number: 35
+Player Number: Player 1
+Player Hand: A Clubs 6 Clubs K Hearts 
+Battle Number: 35
+Player Number: Player 2
+Player Hand: 9 Clubs 6 Spade Q Clubs 
+The outcome of battle 35 is Player 1
+Battle Number: 36
+Player Number: Player 1
+Player Hand: 10 Spade J Clubs 7 Clubs 
+Battle Number: 36
+Player Number: Player 2
+Player Hand: 7 Diamonds 8 Diamonds J Diamonds 
+The outcome of battle 36 is Player 1
+Battle Number: 37
+Player Number: Player 1
+Player Hand: 3 Hearts 5 Spade Q Hearts 
+Battle Number: 37
+Player Number: Player 2
+Player Hand: 8 Hearts A Hearts 6 Hearts 
+The outcome of battle 37 is Player 2
+Battle Number: 38
+Player Number: Player 1
+Player Hand: 8 Clubs K Spade A Diamonds 
+Battle Number: 38
+Player Number: Player 2
+Player Hand: J Spade 5 Clubs 6 Diamonds 
+The outcome of battle 38 is Player 1
+Battle Number: 39
+Player Number: Player 1
+Player Hand: 9 Spade 7 Spade Q Diamonds 
+Battle Number: 39
+Player Number: Player 2
+Player Hand: A Spade 4 Spade 7 Hearts 
+The outcome of battle 39 is Player 1
+Battle Number: 40
+Player Number: Player 1
+Player Hand: 3 Spade 4 Diamonds 2 Clubs 
+Battle Number: 40
+Player Number: Player 2
+Player Hand: 9 Hearts 9 Diamonds K Clubs 
+The outcome of battle 40 is Player 2
+Battle Number: 41
+Player Number: Player 1
+Player Hand: 5 Diamonds 3 Diamonds 8 Spade 
+Battle Number: 41
+Player Number: Player 2
+Player Hand: Q Spade 10 Hearts 2 Hearts 
+The outcome of battle 41 is Player 2
+Battle Number: 42
+Player Number: Player 1
+Player Hand: 4 Hearts J Hearts 3 Clubs 
+Battle Number: 42
+Player Number: Player 2
+Player Hand: 10 Clubs 3 Hearts 8 Hearts 
+The outcome of battle 42 is Player 2
+Battle Number: 43
+Player Number: Player 1
+Player Hand: K Diamonds 2 Diamonds 5 Hearts 
+Battle Number: 43
+Player Number: Player 2
+Player Hand: 5 Spade A Hearts Q Hearts 
+The outcome of battle 43 is Player 2
+Battle Number: 44
+Player Number: Player 1
+Player Hand: 10 Diamonds 2 Spade 4 Clubs 
+Battle Number: 44
+Player Number: Player 2
+Player Hand: 6 Hearts 3 Spade 9 Hearts 
+The outcome of battle 44 is Player 2
+Battle Number: 45
+Player Number: Player 1
+Player Hand: A Clubs 9 Clubs 6 Clubs 
+Battle Number: 45
+Player Number: Player 2
+Player Hand: 4 Diamonds 9 Diamonds 2 Clubs 
+The outcome of battle 45 is Player 1
+Battle Number: 46
+Player Number: Player 1
+Player Hand: 6 Spade K Hearts Q Clubs 
+Battle Number: 46
+Player Number: Player 2
+Player Hand: K Clubs 5 Diamonds Q Spade 
+The outcome of battle 46 is WAR!!!
+The outcome of war 4 is Player 1
+Battle Number: 47
+Player Number: Player 1
+Player Hand: 7 Diamonds J Clubs 8 Diamonds 
+Battle Number: 47
+Player Number: Player 2
+Player Hand: 10 Hearts 8 Spade 2 Hearts 
+The outcome of battle 47 is WAR!!!
+The outcome of war 5 is Player 1
+Battle Number: 48
+Player Number: Player 1
+Player Hand: J Diamonds 8 Clubs J Spade 
+Battle Number: 48
+Player Number: Player 2
+Player Hand: 10 Clubs J Hearts 3 Hearts 
+The outcome of battle 48 is Player 1
+Battle Number: 49
+Player Number: Player 1
+Player Hand: K Spade 5 Clubs A Diamonds 
+Battle Number: 49
+Player Number: Player 2
+Player Hand: 3 Clubs 8 Hearts K Diamonds 
+The outcome of battle 49 is Player 1
+Battle Number: 50
+Player Number: Player 1
+Player Hand: 6 Diamonds 9 Spade A Spade 
+Battle Number: 50
+Player Number: Player 2
+Player Hand: 5 Spade 2 Diamonds A Hearts 
+The outcome of battle 50 is Player 1
+Battle Number: 51
+Player Number: Player 1
+Player Hand: 7 Spade 4 Spade Q Diamonds 
+Battle Number: 51
+Player Number: Player 2
+Player Hand: 5 Hearts Q Hearts 10 Diamonds 
+The outcome of battle 51 is Player 2
+Battle Number: 52
+Player Number: Player 1
+Player Hand: 7 Hearts A Clubs 4 Diamonds 
+Battle Number: 52
+Player Number: Player 2
+Player Hand: 6 Hearts 2 Spade 3 Spade 
+The outcome of battle 52 is Player 1
+Battle Number: 53
+Player Number: Player 1
+Player Hand: 9 Clubs 9 Diamonds 6 Clubs 
+Battle Number: 53
+Player Number: Player 2
+Player Hand: 4 Clubs 9 Hearts 7 Spade 
+The outcome of battle 53 is Player 1
+Battle Number: 54
+Player Number: Player 1
+Player Hand: 2 Clubs 6 Spade K Clubs 
+Battle Number: 54
+Player Number: Player 2
+Player Hand: 5 Hearts 4 Spade Q Hearts 
+The outcome of battle 54 is Player 1
+Battle Number: 55
+Player Number: Player 1
+Player Hand: K Hearts 5 Diamonds Q Clubs 
+Battle Number: 55
+Player Number: Player 2
+Player Hand: Q Diamonds 10 Diamonds null 
+The outcome of battle 55 is Player 1
+The winner of game 3 is Player 1
