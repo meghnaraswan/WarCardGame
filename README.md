@@ -1,9 +1,3 @@
-Meghna Raswan
-2337415
-raswan@chapman.edu
-CPSC 231-03
-Mastery Project 5
-
 Simulation.java
 Game.java
 Player.java
